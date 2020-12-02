@@ -3,10 +3,12 @@
 == References ==
 
 
-* https://www.hostinger.com
-* https://www.w3schools.com
+* https://www.hostinger.com/tutorials/what-is-cli
+* https://www.w3schools.com/whatis/whatis_cli.asp
+* https://www.educba.com/what-is-cli/
 * https://www.thegeekdiary.com
 * https://www.geeksforgeeks.org
-* https://www.wikipedia.org
+* https://www.wikiwand.com/en/Command-line_interface
 * https://oclif.io
 * https://github.com/mthnglac/chuck-the-joker
+* https://github.com/mthnglac/presentations
