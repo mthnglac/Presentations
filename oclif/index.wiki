@@ -1,0 +1,19 @@
+
+
+= CLI & Oclif CLI Framework =
+
+
+* [[Intro]]
+
+* [[Take power from shell]]
+
+* [[Oclif]]
+
+* Let's get our hands dirty!
+
+
+
+
+* [[References]]
+
+* [[WAID]]

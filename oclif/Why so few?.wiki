@@ -1,0 +1,13 @@
+
+
+== Why So Few? ==
+
+
+* In the 1960s, using only computer terminals, this was the only way to
+  interact with computers.
+
+* In the 1970s an 1980s, command line input was commonly used by Unix systems
+  and PC systems like MS-DOS and Apple DOS.
+
+* Today, with graphical user interfaces (GUI), most users never use
+  command-line interfaces (CLI).

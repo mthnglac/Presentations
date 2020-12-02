@@ -1,0 +1,12 @@
+
+
+== Intro ==
+
+
+* [[What is CLI word?]]
+
+* [[What CLI do?]]
+
+* [[Why so few?]]
+
+* [[Examples]]

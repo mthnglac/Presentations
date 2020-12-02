@@ -1,0 +1,13 @@
+
+
+== Generator Commands ==
+
+
+| Command              | Description                       |
+|----------------------|-----------------------------------|
+| oclif command NAME   | add a command to CLI              |
+| oclif help [COMMAND] | display help for oclif            |
+| oclif hook NAME      | add a hook to CLI                 |
+| oclif multi [PATH]   | generate a new multi-command CLI  |
+| oclif plugin [PATH]  | create a new CLI plugin           |
+| oclif single [PATH]  | generate a new single-command CLI |

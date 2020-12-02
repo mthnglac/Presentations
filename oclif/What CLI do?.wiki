@@ -1,0 +1,18 @@
+
+
+== What CLI do? ==
+
+
+* A command-line interface (CLI) processes commands to a computer program in
+  the form of lines of text.
+
+* Bridge between human & computer.
+
+* Management on the OS.
+    i) Navigation
+    ii) Managing files & directories
+      * copy
+      * move
+      * delete
+      * reading
+      * ..

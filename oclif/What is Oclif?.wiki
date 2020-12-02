@@ -1,0 +1,22 @@
+
+
+== What is Oclif? ==
+
+
+=== Introduction ===
+
+* Oclif is a framework for building CLIs in Node.
+
+* It's designed to be extensible so that you can easily add plugins such as
+the update warning plugin or build your own for users to install at runtime.
+
+* It has a generator that allows us to create necessary project files.
+
+* It requires very few runtime dependencies.
+
+* Everything customizable (flag parser, help generation optional).
+
+
+=== Requirements ===
+
+* Only Active LTS Node versions are supported.

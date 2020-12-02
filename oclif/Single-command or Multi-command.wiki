@@ -1,0 +1,39 @@
+
+
+== Single-command or Multi-command ==
+
+
+* With oclif you can create 2 different CLI types: single and multi.
+
+
+=== Single-command ===
+
+* Single CLIs are like `ls` or `curl`.
+
+* They can accept args & flags.
+
+{{{typescript
+
+  import {Command} from '@oclif/command'
+  export class GoodbyeCommand extends Command {
+    async run() {
+      console.log('goodbye, world!')
+    }
+  }
+
+}}}
+
+
+=== Multi-command ===
+
+* Multi CLIs are like `git` or `heroku`.
+
+* They have subcommands that are themselves single CLIs
+
+* Sample structure:
+
+  package.json
+  src/
+  └── commands/
+      ├── create.ts
+      └── destroy.ts

@@ -1,0 +1,14 @@
+
+
+== Other features ==
+
+- Testing
+- Releasing
+- Hooks
+- Plugins
+- Aliases
+- Spinner
+- Table
+- Debugging
+- Notifications
+- Prompting

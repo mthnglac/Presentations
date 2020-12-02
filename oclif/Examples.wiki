@@ -1,0 +1,23 @@
+
+
+== Examples ==
+
+
+| Operating System (OS) | Command                     |
+|-----------------------|-----------------------------|
+| Windows               | C:\>yarn install mysoftware |
+| Mac OS                | >yarn install mysoftware    |
+| Linux                 | >yarn install mysoftware    |
+
+
+# Basic Windows commands
+
+
+| Command     | Description                   |
+|-------------|-------------------------------|
+| dir         | List the directory            |
+| cd pathname | Change dir                    |
+| cd ..       | move one level up             |
+| move        | move a file to another folder |
+| cls         | clears the CLI window         |
+| exit        | closes the CLI window         |

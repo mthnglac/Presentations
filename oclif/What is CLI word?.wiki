@@ -1,0 +1,12 @@
+
+
+== What is CLI word? ==
+
+
+* CLI stands for:
+
+  - Command Line Interface
+
+  - Command Line Interpreter
+
+  - Command Line Input

@@ -1,0 +1,31 @@
+
+
+== Take power from Shell ==
+
+
+# Definition
+  - Shell is a computer program which exposes an operating
+    system's services to a human user or other program.
+
+# Shell
+  - Responsible for taking/processing command from user.
+  - Manages the CLI and acts as an intermediary.
+  - Abilities:
+    - Can work with folder/files
+    - Open/close application
+    - Managing computer operations
+    - Ability to repeat the same operations (like cron)
+
+# Shell types:
+  i) The Bourne Shell (sh) --> written by Steve Bourne
+  ii) The C Shell (csh) --> written by Bill Joy
+  iii) The Korn Shell (ksh) --> written by David Korn
+  iv) The GNU Bourne-Again Shell (bash) --> written by Brian Fox
+
+
+| Shell | Path                | non-root user | Root user  |
+|-------|---------------------|---------------|------------|
+| sh    | /bin/sh && /sbin/sh | $             | #          |
+| csh   | /bin/csh            | %             | #          |
+| ksh   | /bin/ksh            | $             | #          |
+| bash  | /bin/bash           | bash-x.xx$    | bash-x.xx# |
