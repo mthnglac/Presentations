@@ -6,6 +6,8 @@
 # Definition
   - Shell is a computer program which exposes an operating
     system's services to a human user or other program.
+  - It is named a shell because it is the outermost layer around the operating
+    system.
 
 # Shell
   - Responsible for taking/processing command from user.
