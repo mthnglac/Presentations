@@ -12,6 +12,8 @@ the update warning plugin or build your own for users to install at runtime.
 
 * It has a generator that allows us to create necessary project files.
 
+* Supports Javascript & Typescript.
+
 * It requires very few runtime dependencies.
 
 * Everything customizable (flag parser, help generation optional).
